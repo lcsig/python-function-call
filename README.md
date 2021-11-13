@@ -1,6 +1,6 @@
 # The Time Complexity of Function Call in Python
 
-Sample Result on Core i7-9750H CPU @ 2.60GHz
+Sample Result on Core i7-9750H CPU @ 2.60GHz - Python 3.8.3 under Linux
 ```
 [+] Number of Iterations: 994000000
 [+] Test Number: 1
